@@ -1,0 +1,35 @@
+#welcome {font-family: 'Great Vibes', cursive;}
+
+body {background-image:url(w.jpeg);background-size: contain;
+background-image:url(p.jpg);background-size: contain;}
+h1 {text-align: center;color:black}
+p2 {margin-left: 080%}
+table,td,th {
+    border:5px solid Green;
+   height:1px;
+    width:910px;
+}
+table {table-layout: center;
+    
+    background-color:aqua;  
+}
+img{
+width:25px;
+height:25px;
+}
+
+.rahim1 {
+         margin-left:78%;
+         margin-bottom: 8;
+}
+.rahim2 { margin-bottom: 8; 
+        }
+ .rahim3{  
+            margin-left:078%;
+     margin-bottom: 8;
+        }
+.rahimcenter {
+  display: block;
+  margin-left: auto;
+  
+}
